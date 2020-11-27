@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "profile",
+            "database": "${workspaceFolder:wiki-gcd}/Server/db.sqlite"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
